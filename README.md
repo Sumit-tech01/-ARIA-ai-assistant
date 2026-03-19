@@ -142,15 +142,6 @@ ARIA prioritizes **Murf AI** for high-quality English responses. If the user spe
 The central "Neural Core" uses the **Canvas API** to render real-time frequency data. It features layered wave rings, neural particles, and ambient glow effects that scale with the AI's "thinking" and "speaking" intensity.
 
 ---
-
-## 🔧 Environment Variables
-
-| Variable | Required | Description |
-| :--- | :--- | :--- |
-| `GEMINI_API_KEY` | ✅ Yes | Your Google AI Studio API key |
-| `MURF_API_KEY` | ❌ No | Your Murf AI API key (enables premium voices) |
-| `NODE_ENV` | ❌ No | `development` or `production` |
-
 ---
 
 ## ⚡ Performance Metrics
