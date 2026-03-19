@@ -1,0 +1,7 @@
+{
+  "name": "ARIA — Real-Time AI Voice Assistant",
+  "description": "A fast, witty, and intelligent voice assistant powered by Gemini. Features real-time transcription, natural reasoning, and high-quality speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
